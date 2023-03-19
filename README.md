@@ -26,4 +26,4 @@ Depois de criada a lista:
   <img alt="projeto Habits" src=".github/preview.gif" width="50%">
 </p>
 
-Dica: para quebrar uma linha no alert() basta usar um \n na mensagem. 😛
+Dica: para quebrar uma linha no alert() basta usar um \n na mensagem ou usar template literals. 😛
