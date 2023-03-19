@@ -23,7 +23,7 @@ Depois de criada a lista:
 ## O resultado final desse desafio deve ser algo em torno de:
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.gif" width="100%">
+  <img alt="projeto Habits" src=".github/preview.gif" width="50%">
 </p>
 
 Dica: para quebrar uma linha no alert() basta usar um \n na mensagem. 😛
